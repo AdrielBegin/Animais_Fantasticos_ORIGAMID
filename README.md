@@ -1,6 +1,7 @@
 ﻿# Animais Fantasticos
 
-![image](https://github.com/AdrielBegin/Animais_Fantasticos_ORIGAMID/assets/95453666/5495ca88-8b3e-4837-9c01-805cd07642ca)
+![image](https://github.com/AdrielBegin/Animais_Fantasticos_ORIGAMID/assets/95453666/66b26e13-c0c2-43ea-a19b-51a6d71dec74)
+
 
 
 
