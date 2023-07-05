@@ -61,7 +61,7 @@ body {
     box-sizing: border-box;
     padding: 10px;
     display: grid;
-    grid-template-columns: 90px 300px 1fr;
+    grid-template-columns: 300px 300px 1fr;
     grid-gap: 20px;
     margin-bottom: 4rem;
 }
@@ -208,6 +208,9 @@ body {
     .animais-lista {
         grid-column: 1;
     }
+    .animais-lista li{
+        cursor: pointer;
+    }
 
     .faq-lista,
     .dados,
@@ -228,7 +231,7 @@ body {
     }
 }
 
-.js-tabcontent section {
+.js .js-tabcontent section {
     display: none;
 }
 
